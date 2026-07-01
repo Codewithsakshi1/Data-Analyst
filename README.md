@@ -1,46 +1,96 @@
-# 📊 Data Analyst Repository  
+# 🤖 AI Engineer Portfolio
 
-This repo is my personal space to keep everything I’m learning and practicing in the field of Data Analytics.  
-Instead of keeping notes, codes, and projects scattered, I’m putting them all together here so it’s easier to track progress and revisit later.  
+Hi, I'm Sakshi! 👋
 
----
+I'm a B.Tech Computer Science student with a passion for Artificial Intelligence, Machine Learning, and Python. This repository showcases my learning journey, projects, and hands-on practice as I work toward becoming an AI Engineer.
 
-## 👋 About Me
-
-Hi, I’m **Sakshi Sharma**, currently pursuing my **B.Tech from AKTU University**.  
-I have a strong interest in the **Data domain** and I really enjoy working with data, exploring it, and finding useful insights from raw information.  
-
-This repository is where I’m collecting my learning material and projects as I build my skills in:  
-- **Python** 🐍  
-- **SQL** 🗄️  
-- **Power BI** 📊  
-
-I created this repo to keep all my work organized in one place and to track my journey of becoming a better Data Analyst.  
-
-
-I’ll keep adding more material and projects as I continue learning and exploring new tools in analytics.  
+I believe the best way to learn is by building real projects. That's why I use this repository to document what I'm learning and share the projects I create along the way.
 
 ---
 
-## What’s inside?  
+## 🚀 What I'm Learning
 
-- **Python** → practice codes, data analysis basics, and small projects  
-- **SQL** → queries, joins, functions, and exercises on real datasets  
-- **Power BI** → dashboards, reports, and visualization practice  
-- **Excel** → formulas, pivot tables, and reporting tricks  
-- **Case studies & projects** → hands-on examples to apply concepts  
-
----
-
-## Why this repo?  
-
-I wanted one place where I can organize all my study material related to Data Analytics.  
-It’s mainly for my own learning journey, but if anyone else finds it useful, that’s even better.  
+- Python Programming
+- SQL
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Generative AI
+- AI Agents
+- FastAPI
+- Git & GitHub
 
 ---
 
-## How to use?  
+## 📂 Repository Structure
 
-- Browse the folders based on the topic you’re interested in  
-- Go through the notes, examples, or projects  
-- Try out the practice datasets yourself  
+```
+AI-Engineer
+│
+├── Python
+├── SQL
+├── Data Analysis
+├── Machine Learning
+├── Deep Learning
+├── Generative AI
+└── Projects
+```
+
+---
+
+## 💼 Projects
+
+### 🐍 Python
+- Calculator
+- Student Management System
+- Weather App
+
+### 🤖 Machine Learning
+- House Price Prediction
+- Spam Email Classifier
+- Customer Churn Prediction
+
+### ✨ Generative AI
+- AI Chatbot
+- Resume Analyzer
+- PDF Question Answering System
+
+More projects will be added as I continue learning and improving my skills.
+
+---
+
+## 🎯 My Goal
+
+My goal is to become a skilled AI Engineer by building practical AI solutions and continuously improving my knowledge of machine learning, deep learning, and generative AI.
+
+I'm committed to learning every day, solving real-world problems, and creating projects that strengthen my technical skills.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- SQL
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- Git & GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📫 Connect With Me
+
+**GitHub:**  
+https://github.com/Codewithsakshi1
+
+**LinkedIn:**  
+https://www.linkedin.com/in/sakshi-sharma-5583432b9
+
+---
+
+⭐ Thanks for visiting my repository! If you find my projects interesting, feel free to explore them and follow my learning journey.
